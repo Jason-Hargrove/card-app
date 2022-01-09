@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './test.css';
+import './another-test.css';
 
 
 function App() {
